@@ -1,0 +1,359 @@
+{
+  "version": "2026.10.11",
+  "add": {
+    "urgency": [
+      "last chance to claim",
+      "expires in 1 hour",
+      "offer ends in minutes",
+      "claim before midnight"
+    ],
+    "pay": [
+      "pay a small fee to receive",
+      "pay fee to receive your prize",
+      "registration charge",
+      "refundable security deposit",
+      "security deposit to receive"
+    ],
+    "prize": [
+      "claim your cashback now",
+      "you are eligible for a free gift",
+      "scratch card winner"
+    ],
+    "job": [
+      "data entry work from home",
+      "sticker pasting job",
+      "pen packing job",
+      "assembling job at home",
+      "earn money by typing",
+      "rate products and earn",
+      "review products and earn",
+      "like and earn"
+    ],
+    "invest": [
+      "ipo guaranteed allotment",
+      "double your investment",
+      "sure shot stock tips",
+      "stock market tips vip",
+      "insider stock tips"
+    ],
+    "remote": [
+      "supremo",
+      "airdroid"
+    ]
+  },
+  "rules": [
+    {
+      "cat": "Sextortion / Blackmail Scam",
+      "tech": "Fear Manipulation",
+      "weight": 50,
+      "phrases": [
+        "i have your video",
+        "i will leak your video",
+        "leak your photos",
+        "send money or i will",
+        "your private video",
+        "video will be uploaded",
+        "i will share your photos",
+        "i will send your video to your contacts"
+      ],
+      "reason": "The message threatens to leak private photos or videos unless you pay.",
+      "advice": [
+        "Do not pay. Payment does not stop it and the demands will continue.",
+        "Do not reply. Take screenshots, block the number and report on 1930 or cybercrime.gov.in.",
+        "Tell a trusted family member. You are not at fault."
+      ],
+      "bn": {
+        "cat": "ব্ল্যাকমেইল / ছবি-ভিডিও ফাঁসের হুমকি",
+        "reason": "মেসেজে টাকা না দিলে ব্যক্তিগত ছবি বা ভিডিও ফাঁস করার হুমকি দেওয়া হয়েছে।",
+        "advice": [
+          "টাকা দেবেন না। টাকা দিলেও হুমকি থামে না, দাবি বাড়তেই থাকে।",
+          "উত্তর দেবেন না। স্ক্রিনশট রেখে নম্বর ব্লক করুন, আর 1930 বা cybercrime.gov.in-এ অভিযোগ করুন।",
+          "পরিবারের বিশ্বস্ত কাউকে জানান। এতে আপনার কোনো দোষ নেই।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake 5G SIM Upgrade Scam",
+      "tech": "Social Engineering",
+      "weight": 45,
+      "phrases": [
+        "upgrade to 5g sim",
+        "upgrade your sim to 5g",
+        "5g sim upgrade",
+        "sim upgrade required",
+        "esim activation code",
+        "sim will be upgraded to 5g"
+      ],
+      "reason": "The message offers a SIM or 5G upgrade, a common way to steal OTPs and take over a number.",
+      "advice": [
+        "Telecom companies do not upgrade SIMs through links or by asking for OTPs.",
+        "Do not share any code. If you are unsure, visit your operator's store."
+      ],
+      "bn": {
+        "cat": "ভুয়া 5G সিম আপগ্রেড স্ক্যাম",
+        "reason": "মেসেজে সিম বা 5G আপগ্রেডের কথা আছে, যা OTP চুরি করে নম্বর দখলের পরিচিত ফাঁদ।",
+        "advice": [
+          "টেলিকম কোম্পানি লিংক দিয়ে বা OTP চেয়ে সিম আপগ্রেড করে না।",
+          "কোনো কোড দেবেন না। সন্দেহ হলে অপারেটরের দোকানে যান।"
+        ]
+      }
+    },
+    {
+      "cat": "Wrong Code Forwarding Scam",
+      "tech": "Social Engineering",
+      "weight": 45,
+      "phrases": [
+        "sent you a code by mistake",
+        "sent a code to your phone by mistake",
+        "please send me the code",
+        "forward the code you received",
+        "send me the 6 digit code",
+        "code sent to you by mistake"
+      ],
+      "reason": "The sender claims a code was sent to you by mistake and asks you to forward it. This is how accounts are taken over.",
+      "advice": [
+        "Never forward a code. It lets the scammer log into your WhatsApp or bank account.",
+        "Ignore the message and block the sender."
+      ],
+      "bn": {
+        "cat": "ভুল কোড ফরওয়ার্ডের স্ক্যাম",
+        "reason": "প্রেরক বলছে ভুল করে আপনাকে কোড পাঠিয়েছে, সেটা ফরওয়ার্ড করতে চাইছে। এভাবেই অ্যাকাউন্ট দখল হয়।",
+        "advice": [
+          "কোড কখনও ফরওয়ার্ড করবেন না। এতে স্ক্যামার আপনার WhatsApp বা ব্যাংক অ্যাকাউন্টে ঢুকে পড়ে।",
+          "উপেক্ষা করুন আর প্রেরককে ব্লক করুন।"
+        ]
+      }
+    },
+    {
+      "cat": "Loan App Harassment Scam",
+      "tech": "Fear Manipulation",
+      "weight": 45,
+      "phrases": [
+        "we will inform your contacts",
+        "send your photos to your contacts",
+        "loan app recovery",
+        "pay or we will inform your relatives",
+        "we will call all your contacts",
+        "defame you"
+      ],
+      "reason": "The message threatens to shame you in front of your contacts to force a payment.",
+      "advice": [
+        "Do not pay under threat. Report the lender and the app on 1930 or cybercrime.gov.in.",
+        "Uninstall the loan app and remove its contacts and photo permissions."
+      ],
+      "bn": {
+        "cat": "লোন অ্যাপের হয়রানি স্ক্যাম",
+        "reason": "মেসেজে আপনার পরিচিতদের কাছে লজ্জা দেওয়ার হুমকি দিয়ে টাকা আদায়ের চেষ্টা আছে।",
+        "advice": [
+          "হুমকিতে টাকা দেবেন না। ঋণদাতা ও অ্যাপের নামে 1930 বা cybercrime.gov.in-এ অভিযোগ করুন।",
+          "লোন অ্যাপটি মুছুন আর তার কন্টাক্ট ও ছবির অনুমতি বাতিল করুন।"
+        ]
+      }
+    },
+    {
+      "cat": "Aadhaar / PAN Update Scam",
+      "tech": "Verification Trap",
+      "weight": 40,
+      "phrases": [
+        "update aadhaar immediately",
+        "aadhaar will be deactivated",
+        "aadhaar update expired",
+        "aadhaar suspended",
+        "pan will be deactivated",
+        "pan card suspended",
+        "update pan immediately",
+        "pan card blocked"
+      ],
+      "reason": "The message threatens to suspend your Aadhaar or PAN to make you click or share details.",
+      "advice": [
+        "Update Aadhaar only on the official UIDAI website or at an Aadhaar centre.",
+        "Update PAN only on the official income tax portal. Do not click links or share OTPs."
+      ],
+      "bn": {
+        "cat": "আধার / প্যান আপডেট স্ক্যাম",
+        "reason": "মেসেজে আধার বা প্যান বন্ধ হয়ে যাওয়ার ভয় দেখিয়ে লিংকে ক্লিক বা তথ্য দিতে বলা হচ্ছে।",
+        "advice": [
+          "আধার আপডেট শুধু অফিশিয়াল UIDAI ওয়েবসাইটে বা আধার কেন্দ্রে করুন।",
+          "প্যান আপডেট শুধু অফিশিয়াল আয়কর পোর্টালে করুন। লিংকে ক্লিক বা OTP দেবেন না।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake Challan Scam",
+      "tech": "Payment Phishing",
+      "weight": 35,
+      "phrases": [
+        "pay your pending challan",
+        "e-challan pending",
+        "challan pending pay now",
+        "traffic challan pending",
+        "unpaid challan click"
+      ],
+      "reason": "The message uses a pending traffic challan to push you to pay through a link.",
+      "advice": [
+        "Check challans only on the official parivahan.gov.in or your state traffic police website.",
+        "Do not pay through a link from an SMS."
+      ],
+      "bn": {
+        "cat": "ভুয়া চালান স্ক্যাম",
+        "reason": "মেসেজে বাকি ট্রাফিক চালানের কথা বলে লিংকে টাকা দিতে চাপ দেওয়া হচ্ছে।",
+        "advice": [
+          "চালান শুধু অফিশিয়াল parivahan.gov.in বা রাজ্যের ট্রাফিক পুলিশের ওয়েবসাইটে দেখুন।",
+          "SMS-এর লিংকে চালানের টাকা দেবেন না।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake Tax Refund Scam",
+      "tech": "Payment Phishing",
+      "weight": 35,
+      "phrases": [
+        "income tax refund approved",
+        "claim your income tax refund",
+        "tax refund approved click",
+        "itr refund approved",
+        "refund has been approved click",
+        "your tax refund is ready"
+      ],
+      "reason": "The message claims a tax refund is ready, a common bait to steal bank details.",
+      "advice": [
+        "The Income Tax Department never asks for card or bank login details by SMS.",
+        "Check refund status only on the official incometax.gov.in website."
+      ],
+      "bn": {
+        "cat": "ভুয়া ট্যাক্স রিফান্ড স্ক্যাম",
+        "reason": "মেসেজে ট্যাক্স রিফান্ড তৈরি বলা হয়েছে, যা ব্যাংকের তথ্য চুরির পরিচিত টোপ।",
+        "advice": [
+          "আয়কর বিভাগ কখনও SMS-এ কার্ড বা ব্যাংক লগইনের তথ্য চায় না।",
+          "রিফান্ডের অবস্থা শুধু অফিশিয়াল incometax.gov.in-এ দেখুন।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake Customer Care Number Scam",
+      "tech": "Authority Impersonation",
+      "weight": 35,
+      "phrases": [
+        "new customer care number",
+        "customer care number has changed",
+        "helpline number has changed",
+        "call our new helpline",
+        "new toll free number"
+      ],
+      "reason": "The message gives a 'new' customer care number, which is often a scammer's number.",
+      "advice": [
+        "Find a company's customer care number only on its official website or app.",
+        "Do not call numbers from messages."
+      ],
+      "bn": {
+        "cat": "ভুয়া কাস্টমার কেয়ার নম্বরের স্ক্যাম",
+        "reason": "মেসেজে \"নতুন\" কাস্টমার কেয়ার নম্বর দেওয়া হয়েছে, যা প্রায়ই প্রতারকের নম্বর।",
+        "advice": [
+          "কোম্পানির কাস্টমার কেয়ার নম্বর শুধু তাদের অফিশিয়াল ওয়েবসাইট বা অ্যাপে খুঁজুন।",
+          "মেসেজে পাওয়া নম্বরে ফোন করবেন না।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake Insurance Bonus Scam",
+      "tech": "Financial Manipulation",
+      "weight": 35,
+      "phrases": [
+        "lic policy bonus",
+        "your policy has matured",
+        "policy matured amount",
+        "insurance bonus claim",
+        "policy is eligible for bonus",
+        "lic policy has matured"
+      ],
+      "reason": "The message claims an insurance bonus or matured policy and asks for a fee or details.",
+      "advice": [
+        "Check policy status only in the insurer's official app or at a branch.",
+        "A real insurer never asks for a fee to release a bonus."
+      ],
+      "bn": {
+        "cat": "ভুয়া বিমা বোনাস স্ক্যাম",
+        "reason": "মেসেজে বিমার বোনাস বা পলিসি পূর্ণ হওয়ার কথা বলে ফি বা তথ্য চাওয়া হচ্ছে।",
+        "advice": [
+          "পলিসির অবস্থা শুধু বিমা কোম্পানির অফিশিয়াল অ্যাপ বা শাখায় দেখুন।",
+          "আসল বিমা কোম্পানি বোনাস দিতে কখনও ফি চায় না।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake Recharge Offer Scam",
+      "tech": "Reward Bait",
+      "weight": 30,
+      "phrases": [
+        "free recharge",
+        "free data offer",
+        "jio free recharge",
+        "airtel free recharge",
+        "free 3 month recharge",
+        "recharge cashback claim"
+      ],
+      "reason": "The message offers free recharge or data, a common bait for links and fake apps.",
+      "advice": [
+        "Check offers only in your operator's official app.",
+        "Do not click links or install apps for free recharge."
+      ],
+      "bn": {
+        "cat": "ভুয়া রিচার্জ অফার স্ক্যাম",
+        "reason": "মেসেজে বিনামূল্যে রিচার্জ বা ডেটার অফার দেওয়া হয়েছে, যা লিংক ও ভুয়া অ্যাপের পরিচিত টোপ।",
+        "advice": [
+          "অফার শুধু আপনার অপারেটরের অফিশিয়াল অ্যাপে দেখুন।",
+          "বিনামূল্যে রিচার্জের জন্য লিংকে ক্লিক বা অ্যাপ ইনস্টল করবেন না।"
+        ]
+      }
+    },
+    {
+      "cat": "Reward Points Scam",
+      "tech": "Pressure Tactics",
+      "weight": 40,
+      "phrases": [
+        "reward points will expire today",
+        "redeem your reward points now",
+        "reward points expire today",
+        "redeem points now"
+      ],
+      "reason": "The message uses expiring reward points to rush you into clicking a link or installing an app.",
+      "advice": [
+        "Check reward points only in your bank's official app.",
+        "Banks do not send APK files to redeem points."
+      ],
+      "bn": {
+        "cat": "রিওয়ার্ড পয়েন্ট স্ক্যাম",
+        "reason": "মেসেজে রিওয়ার্ড পয়েন্ট শেষ হওয়ার তাড়া দিয়ে লিংকে ক্লিক বা অ্যাপ ইনস্টল করানোর চেষ্টা আছে।",
+        "advice": [
+          "রিওয়ার্ড পয়েন্ট শুধু ব্যাংকের অফিশিয়াল অ্যাপে দেখুন।",
+          "ব্যাংক পয়েন্ট ভাঙানোর জন্য APK ফাইল পাঠায় না।"
+        ]
+      }
+    },
+    {
+      "cat": "Fake Gas Subsidy Scam",
+      "tech": "Payment Phishing",
+      "weight": 40,
+      "phrases": [
+        "lpg subsidy claim",
+        "gas subsidy credited click",
+        "gas connection will be cancelled",
+        "gas connection will be disconnected",
+        "claim your lpg subsidy"
+      ],
+      "reason": "The message uses a gas subsidy or connection threat to push you to a link or payment.",
+      "advice": [
+        "Check subsidy only on your gas company's official app or website.",
+        "Do not pay or share OTPs for a subsidy."
+      ],
+      "bn": {
+        "cat": "ভুয়া গ্যাস ভর্তুকি স্ক্যাম",
+        "reason": "মেসেজে গ্যাস ভর্তুকি বা সংযোগ বন্ধের কথা বলে লিংক বা টাকার দিকে ঠেলা হচ্ছে।",
+        "advice": [
+          "ভর্তুকি শুধু গ্যাস কোম্পানির অফিশিয়াল অ্যাপ বা ওয়েবসাইটে দেখুন।",
+          "ভর্তুকির জন্য টাকা বা OTP দেবেন না।"
+        ]
+      }
+    }
+  ]
+}
