@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.11",
+  "version": "2026.10.12",
   "add": {
     "urgency": [
       "last chance to claim",
@@ -353,6 +353,53 @@
           "ভর্তুকি শুধু গ্যাস কোম্পানির অফিশিয়াল অ্যাপ বা ওয়েবসাইটে দেখুন।",
           "ভর্তুকির জন্য টাকা বা OTP দেবেন না।"
         ]
+      }
+    }
+  ],
+  "feed": [
+    {
+      "date": "2026-10-12",
+      "title": "Blackmail video threats",
+      "text": "Scammers claim to have your private video and demand money. Do not pay. Block the number, take screenshots and report on 1930.",
+      "bn": {
+        "title": "ভিডিও ফাঁসের হুমকি",
+        "text": "প্রতারকরা আপনার ব্যক্তিগত ভিডিও আছে বলে টাকা চায়। টাকা দেবেন না। নম্বর ব্লক করুন, স্ক্রিনশট রাখুন আর 1930-এ অভিযোগ করুন।"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Fake 5G SIM upgrade",
+      "text": "A message offers a free 5G SIM upgrade and asks for an OTP. This is used to take over your phone number.",
+      "bn": {
+        "title": "ভুয়া 5G সিম আপগ্রেড",
+        "text": "মেসেজে বিনামূল্যে 5G সিম আপগ্রেডের কথা বলে OTP চাওয়া হয়। এভাবে আপনার ফোন নম্বর দখল করা হয়।"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Loan app harassment",
+      "text": "Loan apps threaten to message your contacts. Do not pay under threat. Report on cybercrime.gov.in.",
+      "bn": {
+        "title": "লোন অ্যাপের হয়রানি",
+        "text": "লোন অ্যাপ আপনার পরিচিতদের মেসেজ পাঠানোর হুমকি দেয়। হুমকিতে টাকা দেবেন না। cybercrime.gov.in-এ অভিযোগ করুন।"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Aadhaar update scare",
+      "text": "Messages say your Aadhaar will be deactivated. Update Aadhaar only on the official UIDAI website.",
+      "bn": {
+        "title": "আধার আপডেটের ভয়",
+        "text": "মেসেজে বলা হয় আপনার আধার বন্ধ হয়ে যাবে। আধার আপডেট শুধু অফিশিয়াল UIDAI ওয়েবসাইটে করুন।"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Fake tax refund links",
+      "text": "You are told a tax refund is approved and given a link. The tax department never asks for bank login details by SMS.",
+      "bn": {
+        "title": "ভুয়া ট্যাক্স রিফান্ডের লিংক",
+        "text": "বলা হয় ট্যাক্স রিফান্ড অনুমোদিত হয়েছে, সঙ্গে একটা লিংক দেওয়া হয়। আয়কর বিভাগ কখনও SMS-এ ব্যাংক লগইনের তথ্য চায় না।"
       }
     }
   ]
