@@ -1,5 +1,5 @@
 {
- "version": "2026.10.12",
+  "version": "2026.10.17",
   "add": {
     "urgency": [
       "last chance to claim",
@@ -354,9 +354,83 @@
           "ভর্তুকির জন্য টাকা বা OTP দেবেন না।"
         ]
       }
+    },
+    {
+      "cat": "Festive Offer Scam",
+      "tech": "Reward Bait",
+      "weight": 35,
+      "phrases": [
+        "claim your diwali gift",
+        "diwali lucky draw",
+        "diwali gift voucher click",
+        "festival bonus click",
+        "diwali cashback claim",
+        "festive offer claim now",
+        "diwali bonus claim"
+      ],
+      "reason": "The message uses a festival gift, bonus or lucky draw as bait to get you to click or pay.",
+      "advice": [
+        "Check festival offers only in the official app or website of the shop or bank.",
+        "Do not click links or pay a fee to claim a festival gift."
+      ],
+      "bn": {
+        "cat": "উৎসবের অফারের স্ক্যাম",
+        "reason": "মেসেজে উৎসবের উপহার, বোনাস বা লাকি ড্র টোপ হিসেবে দিয়ে লিংকে ক্লিক বা টাকা দিতে বলা হচ্ছে।",
+        "advice": [
+          "উৎসবের অফার শুধু দোকান বা ব্যাংকের অফিশিয়াল অ্যাপ বা ওয়েবসাইটে দেখুন।",
+          "উৎসবের উপহার পেতে লিংকে ক্লিক বা কোনো ফি দেবেন না।"
+        ]
+      },
+      "hi": {
+        "cat": "त्योहार ऑफ़र की ठगी",
+        "reason": "मैसेज में त्योहार का उपहार, बोनस या लकी ड्रॉ लालच बनाकर लिंक पर क्लिक करने या पैसे देने को कहा जा रहा है।",
+        "advice": [
+          "त्योहार के ऑफ़र सिर्फ़ दुकान या बैंक के आधिकारिक ऐप या वेबसाइट पर देखें।",
+          "त्योहार का उपहार पाने के लिए लिंक पर क्लिक न करें और कोई फ़ीस न दें।"
+        ]
+      }
     }
   ],
   "feed": [
+    {
+      "date": "2026-10-17",
+      "title": "Festive sale scams",
+      "text": "Before Diwali, fake sale and gift voucher messages go around. Shop only on the official app or website, and never pay through a link from a message.",
+      "bn": {
+        "title": "উৎসবের সেলের স্ক্যাম",
+        "text": "দীপাবলির আগে ভুয়া সেল আর গিফট ভাউচারের মেসেজ ঘোরে। কেনাকাটা শুধু অফিশিয়াল অ্যাপ বা ওয়েবসাইটে করুন, মেসেজের লিংকে কখনও টাকা দেবেন না।"
+      },
+      "hi": {
+        "title": "त्योहार सेल की ठगी",
+        "text": "दिवाली से पहले नकली सेल और गिफ़्ट वाउचर के मैसेज घूमते हैं। खरीदारी सिर्फ़ आधिकारिक ऐप या वेबसाइट पर करें, मैसेज के लिंक से कभी भुगतान न करें।"
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Fake delivery messages",
+      "text": "Festival orders bring fake courier messages asking for a small fee or an address update. Track your parcel only in the shop's own app.",
+      "bn": {
+        "title": "ভুয়া ডেলিভারির মেসেজ",
+        "text": "উৎসবের অর্ডারের সময় কুরিয়ারের নামে ভুয়া মেসেজ আসে, যাতে ছোট ফি বা ঠিকানা আপডেট চাওয়া হয়। পার্সেল শুধু দোকানের নিজের অ্যাপে ট্র্যাক করুন।"
+      },
+      "hi": {
+        "title": "नकली डिलीवरी मैसेज",
+        "text": "त्योहार के ऑर्डर के समय कूरियर के नाम पर नकली मैसेज आते हैं, जिनमें छोटी फ़ीस या पता अपडेट माँगा जाता है। पार्सल सिर्फ़ दुकान के अपने ऐप में ट्रैक करें।"
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Fake cashback links",
+      "text": "Cashback and reward messages ask you to enter a UPI PIN to receive money. You never need a PIN to receive money.",
+      "bn": {
+        "title": "ভুয়া ক্যাশব্যাকের লিংক",
+        "text": "ক্যাশব্যাক বা রিওয়ার্ডের মেসেজে টাকা পেতে UPI পিন দিতে বলা হয়। টাকা পেতে কখনও পিন দিতে হয় না।"
+      },
+      "hi": {
+        "title": "नकली कैशबैक लिंक",
+        "text": "कैशबैक या रिवॉर्ड के मैसेज में पैसे पाने के लिए UPI पिन डालने को कहा जाता है। पैसे पाने के लिए कभी पिन नहीं डालना पड़ता।"
+      }
+    },
     {
       "date": "2026-10-12",
       "title": "Blackmail video threats",
@@ -402,5 +476,9 @@
         "text": "বলা হয় ট্যাক্স রিফান্ড অনুমোদিত হয়েছে, সঙ্গে একটা লিংক দেওয়া হয়। আয়কর বিভাগ কখনও SMS-এ ব্যাংক লগইনের তথ্য চায় না।"
       }
     }
-  ]
+  ],
+  "latest": {
+    "version": "1.7.2",
+    "url": ""
+  }
 }
