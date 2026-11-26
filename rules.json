@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.26",
+  "version": "2026.11.26.1",
   "add": {
     "urgency": [
       "last chance to claim",
@@ -393,87 +393,133 @@
   ],
   "feed": [
     {
-      "date": "2026-10-17",
-      "title": "Festive sale scams",
-      "text": "Before Diwali, fake sale and gift voucher messages go around. Shop only on the official app or website, and never pay through a link from a message.",
+      "title": "Fake debit alert: do not reply NO",
+      "text": "Police warn of WhatsApp messages from unknown numbers saying money was debited, then asking you to reply NO if you did not do it. Replying or opening any file can open the door to malware. Do not reply. Check your bank's official app, block the number and call 1930 if money is lost.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "উৎসবের সেলের স্ক্যাম",
-        "text": "দীপাবলির আগে ভুয়া সেল আর গিফট ভাউচারের মেসেজ ঘোরে। কেনাকাটা শুধু অফিশিয়াল অ্যাপ বা ওয়েবসাইটে করুন, মেসেজের লিংকে কখনও টাকা দেবেন না।"
+        "title": "ভুয়া ডেবিট অ্যালার্ট: 'NO' লিখে উত্তর দেবেন না",
+        "text": "অচেনা নম্বর থেকে WhatsApp-এ টাকা কাটার মেসেজ আসছে, সঙ্গে বলা হচ্ছে আপনি না করলে 'NO' লিখে উত্তর দিন। উত্তর দিলে বা কোনো ফাইল খুললে ম্যালওয়্যার ঢুকতে পারে বলে পুলিশ সতর্ক করেছে। উত্তর দেবেন না। ব্যাংকের অফিসিয়াল অ্যাপে দেখুন, নম্বর ব্লক করুন, টাকা গেলে ১৯৩০-এ ফোন করুন।"
       },
       "hi": {
-        "title": "त्योहार सेल की ठगी",
-        "text": "दिवाली से पहले नकली सेल और गिफ़्ट वाउचर के मैसेज घूमते हैं। खरीदारी सिर्फ़ आधिकारिक ऐप या वेबसाइट पर करें, मैसेज के लिंक से कभी भुगतान न करें।"
+        "title": "फर्जी डेबिट अलर्ट: 'NO' लिखकर जवाब न दें",
+        "text": "अनजान नंबर से WhatsApp पर पैसे कटने का मैसेज आता है और कहा जाता है कि आपने नहीं किया तो 'NO' लिखकर जवाब दें। जवाब देने या कोई फाइल खोलने से मैलवेयर आ सकता है, पुलिस ने चेताया है। जवाब न दें। बैंक के आधिकारिक ऐप में जाँचें, नंबर ब्लॉक करें, पैसे गए तो 1930 पर कॉल करें।"
       }
     },
     {
-      "date": "2026-10-17",
-      "title": "Fake delivery messages",
-      "text": "Festival orders bring fake courier messages asking for a small fee or an address update. Track your parcel only in the shop's own app.",
+      "title": "WhatsApp account takeover",
+      "text": "Scammers send a link or ask for the 6-digit code that WhatsApp sent to you, then take over your account and message your contacts asking for money. Never share that code or enter it on a link. Turn on two-step verification and tell your contacts if your account is hacked.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "ভুয়া ডেলিভারির মেসেজ",
-        "text": "উৎসবের অর্ডারের সময় কুরিয়ারের নামে ভুয়া মেসেজ আসে, যাতে ছোট ফি বা ঠিকানা আপডেট চাওয়া হয়। পার্সেল শুধু দোকানের নিজের অ্যাপে ট্র্যাক করুন।"
+        "title": "WhatsApp অ্যাকাউন্ট দখলের প্রতারণা",
+        "text": "প্রতারকরা লিংক পাঠায় বা WhatsApp থেকে আপনার কাছে আসা ৬ সংখ্যার কোড চায়, তারপর অ্যাকাউন্ট দখল করে আপনার পরিচিতদের কাছে টাকা চায়। ওই কোড কাউকে দেবেন না, কোনো লিংকেও লিখবেন না। টু-স্টেপ ভেরিফিকেশন চালু করুন। অ্যাকাউন্ট হ্যাক হলে পরিচিতদের জানান।"
       },
       "hi": {
-        "title": "नकली डिलीवरी मैसेज",
-        "text": "त्योहार के ऑर्डर के समय कूरियर के नाम पर नकली मैसेज आते हैं, जिनमें छोटी फ़ीस या पता अपडेट माँगा जाता है। पार्सल सिर्फ़ दुकान के अपने ऐप में ट्रैक करें।"
+        "title": "WhatsApp अकाउंट हड़पने की ठगी",
+        "text": "ठग लिंक भेजते हैं या WhatsApp से आपके पास आया 6 अंकों का कोड माँगते हैं, फिर अकाउंट पर कब्ज़ा करके आपके जानने वालों से पैसे माँगते हैं। यह कोड किसी को न दें, किसी लिंक पर भी न डालें। टू-स्टेप वेरिफिकेशन चालू करें। अकाउंट हैक हो तो अपने संपर्कों को बताएँ।"
       }
     },
     {
-      "date": "2026-10-17",
-      "title": "Fake cashback links",
-      "text": "Cashback and reward messages ask you to enter a UPI PIN to receive money. You never need a PIN to receive money.",
+      "title": "Wedding invitation .apk files",
+      "text": "Wedding season is on. Fake wedding cards arrive on WhatsApp as an .apk file or a link. Installing it can give scammers control of your phone and bank apps. Never open an .apk invitation. Call the sender to confirm first.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "ভুয়া ক্যাশব্যাকের লিংক",
-        "text": "ক্যাশব্যাক বা রিওয়ার্ডের মেসেজে টাকা পেতে UPI পিন দিতে বলা হয়। টাকা পেতে কখনও পিন দিতে হয় না।"
+        "title": "বিয়ের নিমন্ত্রণের .apk ফাইল",
+        "text": "এখন বিয়ের মরশুম। WhatsApp-এ ভুয়া বিয়ের কার্ড .apk ফাইল বা লিংক হয়ে আসছে। ইনস্টল করলে প্রতারকরা আপনার ফোন ও ব্যাংক অ্যাপের নিয়ন্ত্রণ নিতে পারে। .apk নিমন্ত্রণ কখনো খুলবেন না। আগে যে পাঠিয়েছে তাকে ফোন করে নিশ্চিত হন।"
       },
       "hi": {
-        "title": "नकली कैशबैक लिंक",
-        "text": "कैशबैक या रिवॉर्ड के मैसेज में पैसे पाने के लिए UPI पिन डालने को कहा जाता है। पैसे पाने के लिए कभी पिन नहीं डालना पड़ता।"
+        "title": "शादी के निमंत्रण की .apk फाइल",
+        "text": "अभी शादियों का मौसम है। WhatsApp पर नकली शादी कार्ड .apk फाइल या लिंक बनकर आ रहे हैं। इंस्टॉल करने पर ठग आपके फोन और बैंक ऐप पर कब्ज़ा कर सकते हैं। .apk निमंत्रण कभी न खोलें। पहले भेजने वाले को फोन करके पक्का करें।"
       }
     },
     {
-      "date": "2026-10-12",
-      "title": "Blackmail video threats",
-      "text": "Scammers claim to have your private video and demand money. Do not pay. Block the number, take screenshots and report on 1930.",
+      "title": "Digital arrest calls",
+      "text": "No police officer, CBI or court arrests anyone over a video call. If a caller says you are under 'digital arrest', hang up. They cannot ask for money to settle a case. Tell a family member and report on 1930.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "ভিডিও ফাঁসের হুমকি",
-        "text": "প্রতারকরা আপনার ব্যক্তিগত ভিডিও আছে বলে টাকা চায়। টাকা দেবেন না। নম্বর ব্লক করুন, স্ক্রিনশট রাখুন আর 1930-এ অভিযোগ করুন।"
+        "title": "ডিজিটাল অ্যারেস্টের কল",
+        "text": "পুলিশ, CBI বা আদালত ভিডিও কলে কাউকে গ্রেফতার করে না। কেউ 'ডিজিটাল অ্যারেস্ট' বললে ফোন কেটে দিন। মামলা মেটাতে তারা টাকা চাইতে পারে না। পরিবারের কাউকে জানান এবং ১৯৩০-এ রিপোর্ট করুন।"
+      },
+      "hi": {
+        "title": "डिजिटल अरेस्ट वाले कॉल",
+        "text": "पुलिस, CBI या अदालत वीडियो कॉल पर किसी को गिरफ्तार नहीं करती। कोई 'डिजिटल अरेस्ट' कहे तो फोन काट दें। मामला निपटाने के लिए वे पैसे नहीं माँग सकते। घर के किसी को बताएँ और 1930 पर रिपोर्ट करें।"
       }
     },
     {
-      "date": "2026-10-12",
-      "title": "Fake 5G SIM upgrade",
-      "text": "A message offers a free 5G SIM upgrade and asks for an OTP. This is used to take over your phone number.",
+      "title": "Fake investment and trading groups",
+      "text": "Most of the money lost to cyber fraud goes to fake investment schemes: WhatsApp or Telegram stock tip groups, fake trading apps and guaranteed returns. Early small profits are bait. Invest only through SEBI-registered platforms and never pay to withdraw your own money.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "ভুয়া 5G সিম আপগ্রেড",
-        "text": "মেসেজে বিনামূল্যে 5G সিম আপগ্রেডের কথা বলে OTP চাওয়া হয়। এভাবে আপনার ফোন নম্বর দখল করা হয়।"
+        "title": "ভুয়া ইনভেস্টমেন্ট ও ট্রেডিং গ্রুপ",
+        "text": "সাইবার প্রতারণায় হারানো টাকার বেশিরভাগই যায় ভুয়া বিনিয়োগ প্রকল্পে: WhatsApp বা Telegram-এ শেয়ার টিপস গ্রুপ, ভুয়া ট্রেডিং অ্যাপ আর নিশ্চিত লাভের প্রলোভন। শুরুর ছোট লাভ আসলে টোপ। শুধু SEBI-নিবন্ধিত প্ল্যাটফর্মে বিনিয়োগ করুন, নিজের টাকা তুলতে কখনো টাকা দেবেন না।"
+      },
+      "hi": {
+        "title": "नकली निवेश और ट्रेडिंग ग्रुप",
+        "text": "साइबर ठगी में खोया ज़्यादातर पैसा नकली निवेश योजनाओं में जाता है: WhatsApp या Telegram के शेयर टिप ग्रुप, नकली ट्रेडिंग ऐप और पक्के मुनाफ़े के ऑफर। शुरुआती छोटा मुनाफ़ा सिर्फ़ चारा है। सिर्फ़ SEBI-पंजीकृत प्लेटफ़ॉर्म पर निवेश करें, अपना पैसा निकालने के लिए कभी पैसे न दें।"
       }
     },
     {
-      "date": "2026-10-12",
-      "title": "Loan app harassment",
-      "text": "Loan apps threaten to message your contacts. Do not pay under threat. Report on cybercrime.gov.in.",
+      "title": "Boss asking for urgent payment",
+      "text": "Scammers pretend to be your boss, director or a senior officer on WhatsApp from a new number and ask for urgent payments or gift cards. Check by calling the person on the number you already have. Never pay on a chat request alone.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "লোন অ্যাপের হয়রানি",
-        "text": "লোন অ্যাপ আপনার পরিচিতদের মেসেজ পাঠানোর হুমকি দেয়। হুমকিতে টাকা দেবেন না। cybercrime.gov.in-এ অভিযোগ করুন।"
+        "title": "'বস' সেজে জরুরি পেমেন্টের মেসেজ",
+        "text": "প্রতারকরা নতুন নম্বর থেকে WhatsApp-এ আপনার বস, ডিরেক্টর বা উচ্চপদস্থ অফিসার সেজে জরুরি পেমেন্ট বা গিফট কার্ড চায়। আপনার কাছে আগে থেকে থাকা নম্বরে ফোন করে যাচাই করুন। শুধু চ্যাটের অনুরোধে কখনো টাকা দেবেন না।"
+      },
+      "hi": {
+        "title": "'बॉस' बनकर जरूरी पेमेंट के मैसेज",
+        "text": "ठग नए नंबर से WhatsApp पर आपके बॉस, डायरेक्टर या बड़े अफसर बनकर जरूरी पेमेंट या गिफ्ट कार्ड माँगते हैं। आपके पास पहले से मौजूद नंबर पर फोन करके पक्का करें। सिर्फ़ चैट के कहने पर कभी पैसे न भेजें।"
       }
     },
     {
-      "date": "2026-10-12",
-      "title": "Aadhaar update scare",
-      "text": "Messages say your Aadhaar will be deactivated. Update Aadhaar only on the official UIDAI website.",
+      "title": "Fake government scheme and bank apps",
+      "text": "Fake apps and links pretend to be PM-KISAN, bank or other government scheme services and ask you to install an app or enter card details. Get apps only from the Play Store or the official site, and never enter your UPI PIN to receive a benefit.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "আধার আপডেটের ভয়",
-        "text": "মেসেজে বলা হয় আপনার আধার বন্ধ হয়ে যাবে। আধার আপডেট শুধু অফিশিয়াল UIDAI ওয়েবসাইটে করুন।"
+        "title": "ভুয়া সরকারি প্রকল্প ও ব্যাংক অ্যাপ",
+        "text": "PM-KISAN, ব্যাংক বা অন্য সরকারি প্রকল্পের নাম করে ভুয়া অ্যাপ ও লিংক আসে, যা অ্যাপ ইনস্টল করতে বা কার্ডের তথ্য দিতে বলে। অ্যাপ শুধু Play Store বা অফিসিয়াল সাইট থেকে নিন। সুবিধা পেতে কখনো UPI PIN দেবেন না।"
+      },
+      "hi": {
+        "title": "नकली सरकारी योजना और बैंक ऐप",
+        "text": "PM-KISAN, बैंक या दूसरी सरकारी योजनाओं के नाम पर नकली ऐप और लिंक आते हैं, जो ऐप इंस्टॉल करने या कार्ड की जानकारी देने को कहते हैं। ऐप सिर्फ़ Play Store या आधिकारिक साइट से लें। लाभ पाने के लिए कभी UPI PIN न डालें।"
       }
     },
     {
-      "date": "2026-10-12",
-      "title": "Fake tax refund links",
-      "text": "You are told a tax refund is approved and given a link. The tax department never asks for bank login details by SMS.",
+      "title": "AI voice and video call scams",
+      "text": "Scammers can copy a relative's voice or face with AI and say they are in trouble and need money now. Hang up and call the person back on their saved number. Families can keep a secret word that only they know.",
+      "date": "2026-11-26",
       "bn": {
-        "title": "ভুয়া ট্যাক্স রিফান্ডের লিংক",
-        "text": "বলা হয় ট্যাক্স রিফান্ড অনুমোদিত হয়েছে, সঙ্গে একটা লিংক দেওয়া হয়। আয়কর বিভাগ কখনও SMS-এ ব্যাংক লগইনের তথ্য চায় না।"
+        "title": "AI ভয়েস ও ভিডিও কলের প্রতারণা",
+        "text": "প্রতারকরা AI দিয়ে আত্মীয়ের গলা বা মুখ নকল করে বিপদের কথা বলে এখনই টাকা চায়। ফোন কেটে ওই মানুষের সেভ করা নম্বরে নিজে ফোন করুন। পরিবার একটা গোপন শব্দ ঠিক করে রাখতে পারে, যা শুধু তারাই জানে।"
+      },
+      "hi": {
+        "title": "AI आवाज़ और वीडियो कॉल की ठगी",
+        "text": "ठग AI से रिश्तेदार की आवाज़ या चेहरा नकल करके मुसीबत बताते हैं और अभी पैसे माँगते हैं। फोन काटकर उस व्यक्ति के सेव किए नंबर पर खुद कॉल करें। परिवार एक गुप्त शब्द तय कर सकता है जो सिर्फ़ उन्हें पता हो।"
+      }
+    },
+    {
+      "title": "Fake sale ads and shopping apps",
+      "text": "Cyber police are seeing more fake discount ads, phishing links and malicious shopping apps in the sale season. Buy only from the official app or site and never install an app from a link. If you see a payment you did not make, block your card at once.",
+      "date": "2026-11-11",
+      "bn": {
+        "title": "ভুয়া সেলের বিজ্ঞাপন ও শপিং অ্যাপ",
+        "text": "সেলের মরশুমে ভুয়া ছাড়ের বিজ্ঞাপন, ফিশিং লিংক আর ক্ষতিকর শপিং অ্যাপ বাড়ছে বলে সাইবার পুলিশ জানাচ্ছে। শুধু অফিসিয়াল অ্যাপ বা সাইট থেকে কিনুন, লিংক থেকে কোনো অ্যাপ ইনস্টল করবেন না। নিজের না করা পেমেন্ট দেখলে সঙ্গে সঙ্গে কার্ড ব্লক করুন।"
+      },
+      "hi": {
+        "title": "नकली सेल विज्ञापन और शॉपिंग ऐप",
+        "text": "सेल के मौसम में नकली डिस्काउंट विज्ञापन, फ़िशिंग लिंक और खतरनाक शॉपिंग ऐप बढ़ रहे हैं, ऐसा साइबर पुलिस बता रही है। सिर्फ़ आधिकारिक ऐप या साइट से खरीदें, लिंक से कोई ऐप इंस्टॉल न करें। अपना न किया हुआ पेमेंट दिखे तो तुरंत कार्ड ब्लॉक करें।"
+      }
+    },
+    {
+      "title": "Fake bank helpline numbers",
+      "text": "Scammers use search ads and fake websites that show a false bank customer-care number. Do not search for a helpline. Use the number printed on your card or the bank's official app, and never share an OTP or install a screen-sharing app on a caller's request.",
+      "date": "2026-11-10",
+      "bn": {
+        "title": "ভুয়া ব্যাংক হেল্পলাইন নম্বর",
+        "text": "প্রতারকরা সার্চ বিজ্ঞাপন ও ভুয়া ওয়েবসাইটে ব্যাংকের ভুয়া কাস্টমার কেয়ার নম্বর দেখায়। হেল্পলাইন নম্বর সার্চ করে খুঁজবেন না। কার্ডে ছাপা নম্বর বা ব্যাংকের অফিসিয়াল অ্যাপ ব্যবহার করুন। কলারের কথায় OTP দেবেন না বা স্ক্রিন-শেয়ার অ্যাপ ইনস্টল করবেন না।"
+      },
+      "hi": {
+        "title": "नकली बैंक हेल्पलाइन नंबर",
+        "text": "ठग सर्च विज्ञापन और नकली वेबसाइट पर बैंक का झूठा कस्टमर केयर नंबर दिखाते हैं। हेल्पलाइन नंबर सर्च करके न खोजें। कार्ड पर छपा नंबर या बैंक का आधिकारिक ऐप इस्तेमाल करें। कॉल करने वाले के कहने पर OTP न दें और स्क्रीन-शेयर ऐप इंस्टॉल न करें।"
       }
     }
   ],
