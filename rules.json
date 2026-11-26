@@ -480,5 +480,10 @@
   "latest": {
     "version": "1.7.2",
     "url": ""
+  },
+  "blocklist": {
+    "numbers": [],
+    "upis": [],
+    "domains": []
   }
 }
