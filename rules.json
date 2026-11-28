@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.26.1",
+  "version": "2026.11.28",
   "add": {
     "urgency": [
       "last chance to claim",
@@ -466,70 +466,4 @@
         "text": "প্রতারকরা নতুন নম্বর থেকে WhatsApp-এ আপনার বস, ডিরেক্টর বা উচ্চপদস্থ অফিসার সেজে জরুরি পেমেন্ট বা গিফট কার্ড চায়। আপনার কাছে আগে থেকে থাকা নম্বরে ফোন করে যাচাই করুন। শুধু চ্যাটের অনুরোধে কখনো টাকা দেবেন না।"
       },
       "hi": {
-        "title": "'बॉस' बनकर जरूरी पेमेंट के मैसेज",
-        "text": "ठग नए नंबर से WhatsApp पर आपके बॉस, डायरेक्टर या बड़े अफसर बनकर जरूरी पेमेंट या गिफ्ट कार्ड माँगते हैं। आपके पास पहले से मौजूद नंबर पर फोन करके पक्का करें। सिर्फ़ चैट के कहने पर कभी पैसे न भेजें।"
-      }
-    },
-    {
-      "title": "Fake government scheme and bank apps",
-      "text": "Fake apps and links pretend to be PM-KISAN, bank or other government scheme services and ask you to install an app or enter card details. Get apps only from the Play Store or the official site, and never enter your UPI PIN to receive a benefit.",
-      "date": "2026-11-26",
-      "bn": {
-        "title": "ভুয়া সরকারি প্রকল্প ও ব্যাংক অ্যাপ",
-        "text": "PM-KISAN, ব্যাংক বা অন্য সরকারি প্রকল্পের নাম করে ভুয়া অ্যাপ ও লিংক আসে, যা অ্যাপ ইনস্টল করতে বা কার্ডের তথ্য দিতে বলে। অ্যাপ শুধু Play Store বা অফিসিয়াল সাইট থেকে নিন। সুবিধা পেতে কখনো UPI PIN দেবেন না।"
-      },
-      "hi": {
-        "title": "नकली सरकारी योजना और बैंक ऐप",
-        "text": "PM-KISAN, बैंक या दूसरी सरकारी योजनाओं के नाम पर नकली ऐप और लिंक आते हैं, जो ऐप इंस्टॉल करने या कार्ड की जानकारी देने को कहते हैं। ऐप सिर्फ़ Play Store या आधिकारिक साइट से लें। लाभ पाने के लिए कभी UPI PIN न डालें।"
-      }
-    },
-    {
-      "title": "AI voice and video call scams",
-      "text": "Scammers can copy a relative's voice or face with AI and say they are in trouble and need money now. Hang up and call the person back on their saved number. Families can keep a secret word that only they know.",
-      "date": "2026-11-26",
-      "bn": {
-        "title": "AI ভয়েস ও ভিডিও কলের প্রতারণা",
-        "text": "প্রতারকরা AI দিয়ে আত্মীয়ের গলা বা মুখ নকল করে বিপদের কথা বলে এখনই টাকা চায়। ফোন কেটে ওই মানুষের সেভ করা নম্বরে নিজে ফোন করুন। পরিবার একটা গোপন শব্দ ঠিক করে রাখতে পারে, যা শুধু তারাই জানে।"
-      },
-      "hi": {
-        "title": "AI आवाज़ और वीडियो कॉल की ठगी",
-        "text": "ठग AI से रिश्तेदार की आवाज़ या चेहरा नकल करके मुसीबत बताते हैं और अभी पैसे माँगते हैं। फोन काटकर उस व्यक्ति के सेव किए नंबर पर खुद कॉल करें। परिवार एक गुप्त शब्द तय कर सकता है जो सिर्फ़ उन्हें पता हो।"
-      }
-    },
-    {
-      "title": "Fake sale ads and shopping apps",
-      "text": "Cyber police are seeing more fake discount ads, phishing links and malicious shopping apps in the sale season. Buy only from the official app or site and never install an app from a link. If you see a payment you did not make, block your card at once.",
-      "date": "2026-11-11",
-      "bn": {
-        "title": "ভুয়া সেলের বিজ্ঞাপন ও শপিং অ্যাপ",
-        "text": "সেলের মরশুমে ভুয়া ছাড়ের বিজ্ঞাপন, ফিশিং লিংক আর ক্ষতিকর শপিং অ্যাপ বাড়ছে বলে সাইবার পুলিশ জানাচ্ছে। শুধু অফিসিয়াল অ্যাপ বা সাইট থেকে কিনুন, লিংক থেকে কোনো অ্যাপ ইনস্টল করবেন না। নিজের না করা পেমেন্ট দেখলে সঙ্গে সঙ্গে কার্ড ব্লক করুন।"
-      },
-      "hi": {
-        "title": "नकली सेल विज्ञापन और शॉपिंग ऐप",
-        "text": "सेल के मौसम में नकली डिस्काउंट विज्ञापन, फ़िशिंग लिंक और खतरनाक शॉपिंग ऐप बढ़ रहे हैं, ऐसा साइबर पुलिस बता रही है। सिर्फ़ आधिकारिक ऐप या साइट से खरीदें, लिंक से कोई ऐप इंस्टॉल न करें। अपना न किया हुआ पेमेंट दिखे तो तुरंत कार्ड ब्लॉक करें।"
-      }
-    },
-    {
-      "title": "Fake bank helpline numbers",
-      "text": "Scammers use search ads and fake websites that show a false bank customer-care number. Do not search for a helpline. Use the number printed on your card or the bank's official app, and never share an OTP or install a screen-sharing app on a caller's request.",
-      "date": "2026-11-10",
-      "bn": {
-        "title": "ভুয়া ব্যাংক হেল্পলাইন নম্বর",
-        "text": "প্রতারকরা সার্চ বিজ্ঞাপন ও ভুয়া ওয়েবসাইটে ব্যাংকের ভুয়া কাস্টমার কেয়ার নম্বর দেখায়। হেল্পলাইন নম্বর সার্চ করে খুঁজবেন না। কার্ডে ছাপা নম্বর বা ব্যাংকের অফিসিয়াল অ্যাপ ব্যবহার করুন। কলারের কথায় OTP দেবেন না বা স্ক্রিন-শেয়ার অ্যাপ ইনস্টল করবেন না।"
-      },
-      "hi": {
-        "title": "नकली बैंक हेल्पलाइन नंबर",
-        "text": "ठग सर्च विज्ञापन और नकली वेबसाइट पर बैंक का झूठा कस्टमर केयर नंबर दिखाते हैं। हेल्पलाइन नंबर सर्च करके न खोजें। कार्ड पर छपा नंबर या बैंक का आधिकारिक ऐप इस्तेमाल करें। कॉल करने वाले के कहने पर OTP न दें और स्क्रीन-शेयर ऐप इंस्टॉल न करें।"
-      }
-    }
-  ],
-  "latest": {
-    "version": "1.7.2",
-    "url": ""
-  },
-  "blocklist": {
-    "numbers": [],
-    "upis": [],
-    "domains": []
-  }
-}
+ 
